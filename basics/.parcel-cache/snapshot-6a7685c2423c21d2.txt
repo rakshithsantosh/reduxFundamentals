@@ -1,0 +1,10 @@
+9
+95C:\Users\Rakshith\OneDrive\Desktop\Projects\reduxFundamentals\basics\dist\index.672d4772.js.map133821747657783854 0
+91C:\Users\Rakshith\OneDrive\Desktop\Projects\reduxFundamentals\basics\dist\index.672d4772.js133821747657765432 0
+73C:\Users\Rakshith\OneDrive\Desktop\Projects\reduxFundamentals\basics\dist133821747657856359 1
+79C:\Users\Rakshith\OneDrive\Desktop\Projects\reduxFundamentals\basics\index.html133821624643309280 0
+81C:\Users\Rakshith\OneDrive\Desktop\Projects\reduxFundamentals\basics\package.json133821746097741545 0
+78C:\Users\Rakshith\OneDrive\Desktop\Projects\reduxFundamentals\basics\script.js133821624688994248 0
+92C:\Users\Rakshith\OneDrive\Desktop\Projects\reduxFundamentals\basics\dist\basics.3464ddca.js133821747657818842 0
+96C:\Users\Rakshith\OneDrive\Desktop\Projects\reduxFundamentals\basics\dist\basics.3464ddca.js.map133821747657856359 0
+84C:\Users\Rakshith\OneDrive\Desktop\Projects\reduxFundamentals\basics\dist\index.html133821747657488723 0
