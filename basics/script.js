@@ -1,6 +1,6 @@
 import { createStore } from "redux";
 
-const store = createStore(reducer);
+const store = createStore(reducer, window.__REDUX_DEVTOOLS_EXTENSION__?.());
 //this returns an object with some methods
 
 //reducer function is passed as a parameter and initial state os passed as an agrument fpr the reducer funtion
